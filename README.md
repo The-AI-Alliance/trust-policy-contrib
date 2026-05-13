@@ -4,9 +4,12 @@
 
 > [Published website](https://the-ai-alliance.github.io/trust-policy-contrib/)
 
-This repo contains the code and documentation for the AI Alliance **Trust Policy - Community Contributions** project. See the [published website](https://the-ai-alliance.github.io/trust-policy-contrib/) for project details.
+The AI Alliance **Trust Policy - Community Contributions** repository is the home for community contributions of policy definitions that use the IBM Granite [Policy Tools](https://github.com/ibm-granite/granite.trust.policy-tools/tree/main). (Use of IBM's Granite family of models is not required.) See the Policy Tools [repository](https://github.com/ibm-granite/granite.trust.policy-tools/tree/main) for more details.
 
-The rest of this README provides information for contributors, developers, and users of this repository.
+> [!NOTE]
+> We are looking for contributions! See our [contributing]({{site.baseurl}}/contributing) page for details.
+
+The rest of this README provides general information for contributors and users of this repository.
 
 ## Getting Involved
 

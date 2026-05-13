@@ -15,9 +15,9 @@ Welcome to **The AI Alliance: Trust Policy - Community Contributions**.
 > 2. The links for Capitalized Terms go to [this glossary]({{site.glossaryurl}}){:target="_glossary"}.
 
 {: .attention }
-> We are looking for collaborators. Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
+> We are looking for contributions! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
-This project's repository is the home for community contributions of policy definitions that use the IBM Granite [Policy Tools](https://github.com/ibm-granite/granite.trust.policy-tools/tree/main). (Use of IBM's Granite family of models is not required.) See the Policy Tools [repository](https://github.com/ibm-granite/granite.trust.policy-tools/tree/main) for more details.
+This project's repository is the home for community contributions of policy definitions that use the IBM Granite [Policy Tools](https://github.com/ibm-granite/granite.trust.policy-tools/tree/main){:target="_blank"}. (Use of IBM's Granite family of models is not required.) See the Policy Tools [repository](https://github.com/ibm-granite/granite.trust.policy-tools/tree/main){:target="_blank"} for more details.
 
 ## Additional links
 
