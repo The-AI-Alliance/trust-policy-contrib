@@ -4,7 +4,7 @@
 
 > [Published website](https://the-ai-alliance.github.io/trust-policy-contrib/)
 
-This repo contains the code and documentation for the AI Alliance Trust Policy - Community Contributions. See the [published website](https://the-ai-alliance.github.io/trust-policy-contrib/) for project details.
+This repo contains the code and documentation for the AI Alliance **Trust Policy - Community Contributions** project. See the [published website](https://the-ai-alliance.github.io/trust-policy-contrib/) for project details.
 
 The rest of this README provides information for contributors, developers, and users of this repository.
 

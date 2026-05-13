@@ -3,7 +3,7 @@ description: A complete use case we should implement
 title: "[Use Case] "  
 labels: "use case"
 assignees: [deanwampler,adampingel,jolson-ibm]
-projects: [The-AI-Alliance/39]
+projects: [The-AI-Alliance/51]
 body:
 - type: checkboxes
   attributes:
