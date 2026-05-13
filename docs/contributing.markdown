@@ -6,10 +6,7 @@ nav_order: 90
 
 # How to Contribute to this Project
 
-We welcome your contributions! 
-
-{: .todo}
-> **TODO:** Add more specific ways to contribute.
+We welcome your contributions of policy definitions! 
 
 Ways to suggest ideas:
 * Post a [pull request](https://github.com/The-AI-Alliance/trust-policy-contrib/pulls){:target="prs"}! 

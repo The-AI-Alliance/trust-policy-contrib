@@ -17,7 +17,11 @@ Welcome to **The AI Alliance: Trust Policy - Community Contributions**.
 {: .attention }
 > We are looking for contributions! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
-This project's repository is the home for community contributions of policy definitions that use the IBM Granite [Policy Tools](https://github.com/ibm-granite/granite.trust.policy-tools/tree/main){:target="_blank"}. (Use of IBM's Granite family of models is not required.) See the Policy Tools [repository](https://github.com/ibm-granite/granite.trust.policy-tools/tree/main){:target="_blank"} for more details.
+This project's repository is the home for community contributions of policy definitions that use the IBM Granite [Policy Tools](https://github.com/ibm-granite/granite.trust.policy-tools/){:target="_blank"}. (Use of IBM's Granite family of models is not required.) 
+
+See the [`policies` directory](https://github.com/The-AI-Alliance/trust-policy-contrib/tree/main/policies/) in the repository for contributed policies
+
+See the Policy Tools [repository](https://github.com/ibm-granite/granite.trust.policy-tools/){:target="_blank"} for more details.
 
 ## Additional links
 
