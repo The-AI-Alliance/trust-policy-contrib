@@ -5,9 +5,9 @@ nav_order: 100
 has_children: false
 ---
 
-# About The MICROSITE_TITLE and The AI Alliance
+# About The Trust Policy - Community Contributions and The AI Alliance
 
-The [AI Alliance](https://www.aialliance.org){:target="aia"} created and develops the [MICROSITE_TITLE](https://events.thealliance.ai/REPO_NAME){:target="aia-tapestry"}.
+The [AI Alliance](https://www.aialliance.org){:target="aia"} created and develops the [Trust Policy - Community Contributions](https://events.thealliance.ai/trust-policy-contrib){:target="aia-tapestry"}.
 
 {: .attention }
 > **Join Us!** We are looking for [collaborators]({{site.baseurl}}/contributing).
@@ -16,7 +16,7 @@ The [AI Alliance](https://aialliance.org){:target="aia"} is a global collaborati
 
 You can find information about all AI Alliance projects on the [AI Alliance website](https://www.aialliance.org/){:target="aia"} and our [GitHub organization](https://the-ai-alliance.github.io/){:target="aia-github"}.
 
-If you have any questions or concerns about this effort, please contact us at [contact@thealliance.ai](mailto:contact@thealliance.ai?subject=Questions about MICROSITE_TITLE).
+If you have any questions or concerns about this effort, please contact us at [contact@thealliance.ai](mailto:contact@thealliance.ai?subject=Questions about Trust Policy - Community Contributions).
 
 
 ## Other AI Alliance Information
