@@ -1,6 +1,6 @@
 ![The AI Alliance banner](https://the-ai-alliance.github.io/assets/images/ai-alliance-logo-horiz-pos-blue-cmyk-trans.png)
 
-# README for Trust Policy - Community Contributions
+# Trust Policy - Community Contributions
 
 > [Published website](https://the-ai-alliance.github.io/trust-policy-contrib/)
 
