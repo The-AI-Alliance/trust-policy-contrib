@@ -4,7 +4,7 @@
 
 > [Published website](https://the-ai-alliance.github.io/trust-policy-contrib/)
 
-The AI Alliance **Trust Policy - Community Contributions** repository is the home for community contributions of policy definitions that use the IBM Granite [Policy Tools](https://github.com/ibm-granite/granite.trust.policy-tools/). (Use of IBM's Granite family of models is not required.) 
+The AI Alliance **Trust Policy - Community Contributions** repository is the home for community contributions of policy definitions that use the IBM schema defined in the [Policy Tools](https://github.com/ibm-granite/granite.trust.policy-tools/) repository. The schema is designed to enable a set of policy tools also included the Apache 2.0.  repository to improve governance of GenAI systsems. 
 
 See the [`policies` directory](https://github.com/The-AI-Alliance/trust-policy-contrib/tree/main/policies/) in the repository for contributed policies.
 
